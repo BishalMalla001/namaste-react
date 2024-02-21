@@ -1,0 +1,18 @@
+Bundler like parcel, webpack, vite provides functinality such as
+    Dev Build
+    Created Local server
+    Automatically Refreshing the page also called HMR(Hot Module Replacement)
+    flie watching algorithm written in C++
+    Faster builds because of caching.
+    Image optimization - loading images in a page is expensive
+    Bundling
+    Compressed filed
+    Code Splitting
+    Differential Bundling -- (Taking care of running in different browsers, support older browsers)
+    Diaognostics
+    Error Handling Suggestions
+    Tree Shaking (Removing unused code)
+
+Babel
+    Used for transpiling code so that react can understand. 
+    It takes the JSX and converts the code so the JS engine will understand before rendering on browser

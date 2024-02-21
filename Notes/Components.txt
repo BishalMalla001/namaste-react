@@ -1,0 +1,14 @@
+Component Planning
+Header
+    Logo
+    Nav Items
+Body
+    Searchbar
+    Restaurant Container
+        Restaurant Card
+            Image
+            Name of Restaurant, Rating, Cuisines, ETA
+Footer
+    Copyright
+    Links
+    Contact Information
